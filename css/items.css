@@ -33,6 +33,12 @@ ul {
     margin-left: 5px;
 }
 
+.button-text {
+    padding-right: 10px;
+    border-right: 1px solid #fff;
+    vertical-align: top;
+}
+
 .btn {
     color: #fff;
     background-color:#1f883d ;
