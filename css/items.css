@@ -10,6 +10,8 @@ header {
 .flex {
     display: flex;
     align-items: center;
+    justify-content: space-between;
+
 }
 
 span.git {
@@ -24,6 +26,23 @@ ul {
     padding: 0px;
 	line-height: 1.7;
 }
+
+.button-img {
+    vertical-align: sub;
+    width: 20px;
+    margin-left: 5px;
+}
+
+.btn {
+    color: #fff;
+    background-color:#1f883d ;
+    border-color: #1f883d;
+    padding: 8px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+
 
 
 .container {
