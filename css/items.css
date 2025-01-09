@@ -15,7 +15,11 @@ header {
 }
 
 a{
+<<<<<<< HEAD
     color: #2fff;
+=======
+    color: #2c2f35;
+>>>>>>> 80dd2c0995a4d5d526b99ccfa78ee56e0e0be64a
 }
 
 span.git {
