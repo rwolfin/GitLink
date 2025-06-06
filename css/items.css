@@ -1,6 +1,8 @@
 body{
 margin:0;
 font-family:Roboto;
+background:#191b1f;
+;
 }
 
 header {
@@ -15,7 +17,7 @@ header {
 }
 
 a{
-    color: #2c2f35;
+    color: #7c8581;
 
 }
 
